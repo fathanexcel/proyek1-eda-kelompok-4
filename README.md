@@ -16,3 +16,10 @@ Dataset *Indian Roads* ini menarik karena tidak sekadar menyalahkan kelalaian pe
 1. Berapa rata-rata, nilai tengah, dan modus dari variabel *vehicles_involved*, *casualties*, serta *risk_score* pada sampel data kecelakaan ini?
 2. Seberapa besar tingkat persebaran data ketiga variabel tersebut berdasarkan nilai standar deviasi, range, dan IQR (Interquartile Range)?
 3. Bagaimana perbandingan antara rata-rata (*mean*) dan nilai tengah (*median*) pada masing-masing variabel, serta apa dampaknya terhadap kemiringan sebaran data?
+
+**Cara Menjalankan Notebook:**
+1. Pastikan device yang digunakan sudah terinstall Miniconda dan Jupyter
+2. Download file berekstensi .ipynb yang tersedia di folder eda_kelompok_4 (struktur isi notebook tertera pada nama file dimulai dari (3) - (10)
+3. Buka terminal miniconda, lalu jalankan jupyter notebook
+4. Setelah masuk ke dalam jupyter, upload file yang sudah di download pada GitHub
+5. Buka file dan jalankan kodenya (shortcut: shift + enter)
